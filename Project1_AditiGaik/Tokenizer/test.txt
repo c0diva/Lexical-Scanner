@@ -1,0 +1,7 @@
+my name is aditi;
+#include <iostream>
+functionname{ icanseeyou }
+public:
+protected   :
+private          :
+for(i=0;i<2;i++)

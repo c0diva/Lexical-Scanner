@@ -1,0 +1,13 @@
+﻿Build started 09-02-2016 16:11:28.
+     1>Project "C:\Syracuse University\Semester 2\OOD\Project1\SemiExp\SemiExp.vcxproj" on node 2 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /I../../Tokenizer /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D SEMIEXPk /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\SemiExp.pdb" /Gd /TP /analyze- /errorReport:prompt SemiExp.cpp
+         SemiExp.cpp
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\Lib.exe /OUT:"C:\Syracuse University\Semester 2\OOD\Project1\Debug\SemiExp.lib" /NOLOGO Debug\SemiExp.obj
+         SemiExp.vcxproj -> C:\Syracuse University\Semester 2\OOD\Project1\Debug\SemiExp.lib
+     1>Done Building Project "C:\Syracuse University\Semester 2\OOD\Project1\SemiExp\SemiExp.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.92
